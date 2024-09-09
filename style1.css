@@ -122,3 +122,9 @@ footer {
 footer p {
     margin: 0;
 }
+.col-md-6 img
+{
+    width:150px;
+    border-radius:50%;
+    margin-left:300px;
+}
